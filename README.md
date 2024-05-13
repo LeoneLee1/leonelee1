@@ -10,4 +10,4 @@
 
 <p align = "center">
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/me.daniel01/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/me.daniel01?igsh=MWhub2F3ZXZ5dzUweg%3D%3D&utm_source=qr)
